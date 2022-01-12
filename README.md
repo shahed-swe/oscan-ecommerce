@@ -1,0 +1,9 @@
+# oscan-ecommerce
+
+```
+Bhai magna tel e alkatra khay....
+ei oscar tar bishod proman..
+jotoi django mango houk lav nai...din shes e raw code korai lagbe...
+tai faw douraiyen na...
+ar ei ### Repo ta hudai banaichi mind khaiyen na
+```
